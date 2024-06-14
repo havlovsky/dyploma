@@ -1,0 +1,1 @@
+drop database Vintage_Moto_Hub_Database;
